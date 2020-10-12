@@ -1,0 +1,53 @@
+Space Escape: ReadME
+
+Player has to last 10 seconds in each level before advancement to next.
+
+
+
+1)Hit enter to get past landing page.
+2)Hit 'N' for New Game
+      'C' for credits
+      'H' for help
+      'E' to quit
+
+
+- 
+
+First level is jumping platform to platform. Avoid the pits. 
+
+
+
+-
+Second level is asteroid dodging. Use left and right keys to not get hit by the asteroids. 
+
+
+
+
+When player dies credits are cued. 
+
+
+
+
+Instructions:
+
+
+Movement: L/R Arrow Keys
+ 
+Jump: Up Arrow Key 
+
+
+Pause: P key
+Quit Game: E
+Members:
+
+Anthony :Anthony was in charge of implementing the different portions of code that we collectively created.
+A lot of our time coding together was done on his laptop. He was also responsible for created the level design.
+
+Janik: Janik was responsible for a lot of the graphics we used. He hand created all of the menus we used in our project:
+He also had a big hand in the level design. He helped put together our collsion code as well.
+
+Rory: Rory was responsible for creating the platforms and platform collsion used in the game. He also got our sounds working
+within the game.
+
+Jack: Jack put together our menu system.He was also responsible for creating the time that
+moved the player through the levels. Jack also had a big role in helping debug. 
